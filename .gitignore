@@ -25,8 +25,8 @@ error.txt
 Thumbs.db
 .DS_Store
 
-# Models
-*.pt
+# Python Environments
+venv/
 
-# Binaries
+# Binaries and Models are ALLOWED now
 bin/
