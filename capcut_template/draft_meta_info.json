@@ -1,0 +1,108 @@
+{
+    "cloud_draft_cover": false,
+    "cloud_draft_sync": false,
+    "cloud_package_completed_time": "",
+    "draft_cloud_capcut_purchase_info": "",
+    "draft_cloud_last_action_download": false,
+    "draft_cloud_package_type": "",
+    "draft_cloud_purchase_info": "",
+    "draft_cloud_template_id": "",
+    "draft_cloud_tutorial_info": "",
+    "draft_cloud_videocut_purchase_info": "",
+    "draft_cover": "",
+    "draft_deeplink_url": "",
+    "draft_enterprise_info": {
+        "draft_enterprise_extra": "",
+        "draft_enterprise_id": "",
+        "draft_enterprise_name": "",
+        "enterprise_material": []
+    },
+    "draft_fold_path": "C:/Users/infoh/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/0616",
+    "draft_id": "A3EFC500-96F9-469e-A92A-F424FAAD9801",
+    "draft_is_ae_produce": false,
+    "draft_is_ai_packaging_used": false,
+    "draft_is_ai_shorts": false,
+    "draft_is_ai_translate": false,
+    "draft_is_article_video_draft": false,
+    "draft_is_cloud_temp_draft": false,
+    "draft_is_from_deeplink": "false",
+    "draft_is_invisible": false,
+    "draft_is_pippit_draft": false,
+    "draft_is_web_article_video": false,
+    "draft_materials": [
+        {
+            "type": 0,
+            "value": [
+                {
+                    "ai_group_type": "",
+                    "create_time": 1779461592,
+                    "duration": 5000000,
+                    "enter_from": 0,
+                    "extra_info": "12th admit card.jpeg",
+                    "file_Path": "C:/Users/infoh/OneDrive/Documents/Taniya Documents/12th admit card.jpeg",
+                    "height": 938,
+                    "id": "ed8be3ed-367e-4e18-a6ce-8e14473565ee",
+                    "import_time": 1781631218,
+                    "import_time_ms": 1781631217839050,
+                    "item_source": 1,
+                    "md5": "",
+                    "metetype": "photo",
+                    "roughcut_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "sub_time_range": {
+                        "duration": -1,
+                        "start": -1
+                    },
+                    "type": 0,
+                    "width": 720
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "value": []
+        },
+        {
+            "type": 2,
+            "value": []
+        },
+        {
+            "type": 3,
+            "value": []
+        },
+        {
+            "type": 6,
+            "value": []
+        },
+        {
+            "type": 7,
+            "value": []
+        },
+        {
+            "type": 8,
+            "value": []
+        }
+    ],
+    "draft_materials_copied_info": [],
+    "draft_name": "0616",
+    "draft_need_rename_folder": false,
+    "draft_new_version": "",
+    "draft_removable_storage_device": "",
+    "draft_root_path": "C:/Users/infoh/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+    "draft_segment_extra_info": [],
+    "draft_timeline_materials_size_": 582700,
+    "draft_type": "",
+    "draft_web_article_video_enter_from": "",
+    "tm_draft_cloud_completed": "",
+    "tm_draft_cloud_entry_id": -1,
+    "tm_draft_cloud_modified": 0,
+    "tm_draft_cloud_parent_entry_id": -1,
+    "tm_draft_cloud_space_id": -1,
+    "tm_draft_cloud_user_id": -1,
+    "tm_draft_create": 1781631195334423,
+    "tm_draft_modified": 1781631848634414,
+    "tm_draft_removed": 0,
+    "tm_duration": 138000000000
+}

@@ -1,0 +1,7 @@
+{
+    "raw_images_dir": "01_raw_images",
+    "cleaned_images_dir": "02_cleaned_images",
+    "story_intel_dir": "03_story_intel",
+    "episode_script_dir": "04_episode_script",
+    "capcut_package_dir": "05_capcut_package"
+}

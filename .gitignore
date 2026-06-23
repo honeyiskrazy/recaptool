@@ -1,0 +1,32 @@
+# Environment & secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Project data
+projects/
+chapters/
+temp_pdf/
+error.log
+error.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Models
+*.pt
+
+# Binaries
+bin/
